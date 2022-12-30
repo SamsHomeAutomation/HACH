@@ -1,6 +1,6 @@
 
  ------------------------------------------------------------------------------
-| Copyright Sams Home Automation 2022.                                         |
+| Copyright (C) Sams Home Automation 2022.                                     |
 |                                                                              |
 | This source describes Open Hardware and is licensed under the CERN-OHL-S v2. |
 |                                                                              |

@@ -19,3 +19,9 @@ This hardware is in the development stage. PCBs are still being designed. I hope
 The plan is to start producing small runs of the devices for sale in the future.
 
 If you have any questions, comments, suggestions for improvement or ideas for more modules please feel free to create a discussion, I will try my hardest to answer everyone.
+
+--UPDATE 22.01.2023--
+The through hole version of the Switch Input module has been sent off to PCBWay to be printed. this will be tested within the next month.
+This module is compatible with sonoff 4ch pro and other sonoff models with custom made link cable. The 4ch pro link modules have also been sent off to print.
+The 4ch pro link module makes for a easy reliable connection to a sonoff 4ch pro by way of an rj45 connector. This is experimental and testing will be carried out within the next month.
+All Gerber files for Switch Input Module through hole version are now available to use.

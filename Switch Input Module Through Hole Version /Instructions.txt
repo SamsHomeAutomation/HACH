@@ -1,0 +1,20 @@
+Switch Input Module Throgh Hole Version
+
+Populate PCB:-
+  3.5mm pitch screw therminals
+  10k pull up resistors
+  100nf debounce capacitors
+  mcp23017 i2c port expander
+  3 pole dip switch
+  4k7 i2c bus resistors
+  470R link port bus resistors
+  i2c bus extender ic
+  rj45 connectors.
+
+Mount bcb on 25mm pitch din rail mounts or um72 pcb din rail carrier.
+
+Use rj45 patch lead to connect module to sonoff 4ch pro or other control module.
+
+Attach light switches to pairs of screw terminals.
+
+Program your controller with esphome and edit yaml to include mcp23017 binary inputs. See esphome.io for more information.

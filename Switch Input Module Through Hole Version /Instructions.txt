@@ -1,7 +1,7 @@
-Switch Input Module Throgh Hole Version
+Switch Input Module Through Hole Version
 
 Populate PCB:-
-  3.5mm pitch screw therminals
+  3.5mm pitch screw terminals
   10k pull up resistors
   100nf debounce capacitors
   mcp23017 i2c port expander
@@ -11,7 +11,7 @@ Populate PCB:-
   i2c bus extender ic
   rj45 connectors.
 
-Mount bcb on 25mm pitch din rail mounts or um72 pcb din rail carrier.
+Mount pcb on 25mm pitch din rail mounts or um72 pcb din rail carrier.
 
 Use rj45 patch lead to connect module to sonoff 4ch pro or other control module.
 

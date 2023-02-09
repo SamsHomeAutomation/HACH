@@ -1,5 +1,4 @@
 # HACH
-![Screenshot](Logo/HACH logo Black on White.png)
 Home Automation Control Hardware
 
 A Control Module and collection of Extension Modules which link together for the purposes of controlling lighting and other equipment using ESPHome and Home Assistant.

@@ -1,0 +1,12 @@
+Id,Designator,Package,Quantity,Designation
+2,"25mm,25mm",DinRailAdapter_2xM3_pheonixContact,2,DinRailAdapter_2xM3_pheonixContact
+3,"R19,R11,R12,R13,R14,R15,R16,R17,R18,R3,R4,R5,R6,R7,R8,R9,R10,R20,R21",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,19,10k
+4,SW1,DIP-6_W7.62mm_Socket,1,SW_DIP_x03
+6,"R1,R2",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,4K7
+7,"J3,J4","TerminalBlock_Phoenix_PT-1,5-16-3.5-H_1x16_P3.50mm_Horizontal",2,Screw_Terminal_01x16
+17,U1,DIP-28_W7.62mm_Socket,1,MCP23017_SP
+18,"C9,C10,C11,C12,C13,C14,C15,C16,C1,C2,C3,C4,C5,C6,C7,C8",C_Disc_D4.7mm_W2.5mm_P5.00mm,16,100nF
+20,"R22,R23",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,430R
+21,U2,DIP-8_W7.62mm_Socket,1,"P82B715TD,118"
+22,"J1,J2",JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,2,Screw_Terminal_01x05
+23,"J5,J6",RJ45_Amphenol_54602-x08_Horizontal,2,RJ45

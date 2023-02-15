@@ -1,20 +1,22 @@
 Switch Input Module Through Hole Version
 
-Populate PCB:-
-  3.5mm pitch screw terminals
-  10k pull up resistors
-  100nf debounce capacitors
-  mcp23017 i2c port expander
-  3 pole dip switch
-  4k7 i2c bus resistors
-  470R link port bus resistors
-  i2c bus extender ic
-  rj45 connectors.
+This module is designed to connect to a Sonoff 4ch Pro or other control module and is used to attach standard toggle light switches, retractive light switches, push buttons, and dry contacts volt-free contacts.
 
-Mount pcb on 25mm pitch din rail mounts or um72 pcb din rail carrier.
+Populate PCB with the following components:
 
-Use rj45 patch lead to connect module to sonoff 4ch pro or other control module.
+3.5mm pitch screw terminals
+10k pull-up resistors
+100nf debounce capacitors
+MCP23017 I2C port expander
+3 pole DIP switch
+4k7 I2C bus resistors
+470R link port bus resistors
+I2C bus extender IC
+RJ45 connectors
+Mount the PCB on 25mm pitch DIN rail mounts or UM72 PCB DIN rail carrier.
+
+Use an RJ45 patch lead to connect the module to the Sonoff 4ch Pro or other control module.
 
 Attach light switches to pairs of screw terminals.
 
-Program your controller with esphome and edit yaml to include mcp23017 binary inputs. See esphome.io for more information.
+Program your controller with ESPHome and edit YAML to include MCP23017 binary inputs. For more information, please refer to esphome.io.

@@ -33,3 +33,7 @@ The through hole version of the Switch Input module has been sent off to PCBWay 
 This module is compatible with sonoff 4ch pro and other sonoff models with custom made link cable. The 4ch pro link modules have also been sent off to print.
 The 4ch pro link module makes for a easy reliable connection to a sonoff 4ch pro by way of an rj45 connector. This is experimental and testing will be carried out within the next month.
 All Gerber files for Switch Input Module through hole version are now available to use.
+
+--UPDATE 13.04.2023--
+Unfortunately I no longer have the time to put into this project. If anyone wants to continue with it please do contact me via github or email.
+The switch input pcb I have built is working fine with a slight bodge as I missed the reset line for the mcp23017. The i2c extender does not appear to work so needs more experimenting. But normal ttl level i2c works just fine. the sonoff pro link pcb are too big and need complete redesign.
